@@ -1,1 +1,24 @@
-/* write your override styles here */
+body{
+    background: black;
+}
+*{
+    text-decoration: none;
+    box-shadow: none;
+    border: none;
+}
+img{
+    filter: none;
+    opacity: 1;
+}
+div{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+}
+h1{
+    text-align: end;
+    color: black;
+}
+p{
+    font-style: italic;
+    background-image: none;
+}
